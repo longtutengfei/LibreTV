@@ -1,8 +1,8 @@
-name = "libretv"
+name = "tv"
 compatibility_date = "2025-12-12"
 
 [assets]
-directory = "./"
+directory = "dist"
 
 [vars]
 PASSWORD = "admin@89soft"
